@@ -9,8 +9,8 @@ Esse site, foi desenvolvido para um estudo. Gosto muito de estudar o PHP, que po
 - [x] Consumir uma api
 - [x] Exibir os resultados da api
 - [x] URL amigável
-- [] Responsividade
-- [] Botão "ler mais" não funciona
+- [ ] Responsividade
+- [ ] Botão "ler mais" não funciona
 
 ## Imagens
 
