@@ -1,5 +1,5 @@
-    <?php include_once "../layout/header.php"; ?>
-    <?php require_once DIR_CONTROLLER."controllerList.php"; ?>
+    <?php include_once DIR_HEADER; ?>
+    <?php require_once DIR_CONTROLLER; ?>
         <div id="container">
             <div class="page">
                 <div id="articles">
@@ -7,4 +7,4 @@
                 </div>
             </div>
         </div>
-    <?php include_once "../layout/footer.php" ?>
+    <?php include_once DIR_FOOTER; ?>
