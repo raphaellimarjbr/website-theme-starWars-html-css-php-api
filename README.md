@@ -2,7 +2,7 @@
 
 ![alt text](https://raw.githubusercontent.com/raphaellimarjbr/website-theme-starWars-html-css-php-api/main/app/src/img/logo.png)
 
-## Esse site, foi desenvolvido para um estudo. Gosto muito de estudar o PHP, que por sinal é a minha linguagem de programação favorita.
+Esse site, foi desenvolvido para um estudo. Gosto muito de estudar o PHP, que por sinal é a minha linguagem de programação favorita.
 
 # Imagens do projeto
 
