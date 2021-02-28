@@ -4,6 +4,10 @@
 
 Esse site, foi desenvolvido para um estudo. Gosto muito de estudar o PHP, que por sinal é a minha linguagem de programação favorita.
 
+## Como usar?
+
+- Primeiramente, baixe o [xampp](https://www.apachefriends.org/pt_br/index.html) ou [wamp](https://www.wampserver.com/en/).
+
 ## O que foi implantado?
 
 - [x] Consumir uma api
@@ -11,11 +15,10 @@ Esse site, foi desenvolvido para um estudo. Gosto muito de estudar o PHP, que po
 - [x] URL amigável
 - [ ] Responsividade
 - [ ] Botão "ler mais" não funciona
-
 ## Imagens
 
 ![alt text](https://raw.githubusercontent.com/raphaellimarjbr/website-theme-starWars-html-css-php-api/main/banner.png)
 
-## Tecnologias utilizadas
+## Tecnologias
 
 - [PHP](https://www.php.net/)
