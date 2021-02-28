@@ -1,6 +1,6 @@
 <?php
 
-    require_once "modelList.php";
+    require_once "../../model/modelList.php";
 
     class ControllerList extends ModelList
     {
